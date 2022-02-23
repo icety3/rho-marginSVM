@@ -11,6 +11,6 @@ If you find our paper or this project helps your research, please kindly conside
   author={Tian, Lai and So, Anthony Man-Cho},
   journal={Artificial Intelligence and Statistics},
   year={2022},
-  rganization={PMLR}
+  organization={PMLR}
 }
 ```
